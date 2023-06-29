@@ -37,7 +37,7 @@ var package = Package(
     .package(url: "https://github.com/pointfreeco/swift-url-routing", from: "0.2.0"),
     .package(url: "https://github.com/pointfreeco/xctest-dynamic-overlay", from: "0.2.0"),
     .package(name: "Overture", url: "https://github.com/pointfreeco/swift-overture", from: "0.5.0"),
-    .package(url: "https://github.com/pointfreeco/swift-snapshot-testing", from: "1.10.0"),
+    .package(url: "https://github.com/pointfreeco/swift-snapshot-testing", from: "1.11.1"),
   ],
   targets: [
     .target(
