@@ -31,7 +31,7 @@ var package = Package(
     .package(url: "https://github.com/pointfreeco/swift-composable-architecture", from: "0.53.2"),
     .package(url: "https://github.com/pointfreeco/swift-custom-dump", from: "0.1.0"),
     .package(url: "https://github.com/pointfreeco/swift-dependencies", from: "0.5.0"),
-    .package(url: "https://github.com/pointfreeco/swift-gen", from: "0.3.0"),
+    .package(url: "https://github.com/pointfreeco/swift-gen", from: "0.4.0"),
     .package(url: "https://github.com/pointfreeco/swift-parsing", from: "0.12.0"),
     .package(url: "https://github.com/pointfreeco/swift-tagged", from: "0.6.0"),
     .package(url: "https://github.com/pointfreeco/swift-url-routing", from: "0.2.0"),
